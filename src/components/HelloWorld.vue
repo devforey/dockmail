@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>Adding a paragraph</p>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
+      For a guide and recipes on how to configure / customize this project, This is a change<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
